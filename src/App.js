@@ -1,14 +1,13 @@
 
 import './App.css';
-import BTable from './components/table'
-
+import BoostrapTable from './components/index'
 
 
 function App() {
   
   return (
     <div className="App">
-      <BTable />
+      <BoostrapTable />
     </div>
   );
 }
